@@ -1,0 +1,67 @@
+📜 Termos de Uso Estendidos do Random Code
+Vigência: 1º de Novembro de 2025
+
+Estes Termos de Uso ("Termos") regem o acesso e o uso do site e serviço de geração de senhas Random Code ("Serviço") e constituem um acordo legal vinculativo entre você e a [Nome da Sua Empresa/Você] ("Nós", "Nosso" ou "A Companhia").
+
+1. Aceitação dos Termos
+Ao acessar ou utilizar qualquer parte do Serviço, você concorda em se submeter e estar vinculado a estes Termos. Se você não concorda com todos os termos e condições deste acordo, então você não deve acessar o site ou usar quaisquer serviços.
+
+2. Alterações nos Termos
+Reservamo-nos o direito, a Nosso exclusivo critério, de modificar ou substituir estes Termos a qualquer momento. Se uma revisão for material, faremos esforços razoáveis para fornecer um aviso com pelo menos 30 (trinta) dias de antecedência antes que quaisquer novos termos entrem em vigor. O que constitui uma alteração material será determinado a Nosso exclusivo critério.
+
+3. O Serviço Random Code e Uso Permitido
+3.1. Natureza do Serviço
+O Random Code é um gerador de senhas online projetado para criar sequências de caracteres aleatórias e complexas para fins de segurança digital.
+
+3.2. Responsabilidade do Usuário
+Você é o único responsável pela utilização, armazenamento e gerenciamento seguro das senhas geradas pelo Serviço. O Random Code não armazena, monitora ou mantém um registro das senhas criadas. Ao gerar uma senha, você concorda que:
+
+Você usará a senha gerada por sua conta e risco.
+
+Você garantirá que a senha seja copiada e armazenada em um local seguro (como um gerenciador de senhas pessoal) antes de fechar a página.
+
+Você não nos responsabilizará por qualquer perda ou dano decorrente do uso ou não uso da senha gerada.
+
+3.3. Restrições de Uso
+Você concorda em não realizar, tentar realizar ou facilitar qualquer um dos seguintes:
+
+Usar o Serviço para gerar senhas ou dados para fins ilegais ou fraudulentos.
+
+Tentar obter acesso não autorizado a qualquer parte do Serviço ou de nossos sistemas.
+
+Interferir, interromper ou sobrecarregar a operação do Serviço.
+
+Realizar engenharia reversa, descompilar ou desmontar qualquer parte do código ou software do Serviço.
+
+4. Propriedade Intelectual
+4.1. Direitos da Companhia
+O Serviço e seu conteúdo original (excluindo o conteúdo fornecido por usuários, se houver), recursos, funcionalidade e o design visual (incluindo a logo Random Code) são e permanecerão propriedade exclusiva da [Nome da Sua Empresa/Você] e de seus licenciadores. O conteúdo é protegido por direitos autorais, marcas registradas e outras leis do Brasil e de países estrangeiros.
+
+4.2. Licença Limitada
+Concedemos a você uma licença limitada, não exclusiva, intransferível e revogável para usar o Serviço estritamente de acordo com estes Termos para seu uso pessoal, não comercial.
+
+5. Links para Outros Sites
+Nosso Serviço pode conter links para sites ou serviços de terceiros que não são de propriedade ou controlados pelo Random Code. Não temos controle e não assumimos responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros. Você reconhece e concorda que a Companhia não será responsável, direta ou indiretamente, por qualquer dano ou perda causada ou alegadamente causada por ou em conexão com o uso ou confiança em qualquer conteúdo, bens ou serviços disponíveis em ou através de quaisquer sites ou serviços.
+
+6. Encerramento (Rescisão)
+Podemos encerrar ou suspender seu acesso ao Serviço imediatamente, sem aviso prévio ou responsabilidade, por qualquer motivo, incluindo, sem limitação, se você violar estes Termos. Após o encerramento, seu direito de usar o Serviço cessará imediatamente.
+
+7. Isenção de Garantias
+O Serviço é fornecido a você "COMO ESTÁ" e "CONFORME DISPONÍVEL" e com todas as falhas e defeitos, sem garantia de qualquer tipo.
+
+O Random Code não garante que: (i) o Serviço atenderá às suas exigências; (ii) o Serviço será ininterrupto, oportuno, seguro ou livre de erros; (iii) a qualidade de quaisquer produtos, serviços, informações ou outro material obtido por você por meio do Serviço atenderá às suas expectativas.
+
+O Random Code isenta-se de todas as garantias, sejam expressas, implícitas, estatutárias ou de outra forma, incluindo, mas não se limitando, a quaisquer garantias de comercialização, adequação a uma finalidade específica, título e não violação, e garantias que possam surgir do curso da negociação, do curso do desempenho, uso ou prática comercial.
+
+8. Limitação de Responsabilidade
+Em toda a extensão permitida pela lei aplicável, em nenhum caso o Random Code, seus fornecedores, diretores, funcionários, afiliados ou licenciadores serão responsáveis por quaisquer danos especiais, incidentais, indiretos ou consequenciais de qualquer natureza (incluindo, mas não se limitando a, danos por perda de lucros, perda de dados ou outras informações, por interrupção de negócios, por lesão pessoal, por perda de privacidade decorrente ou de alguma forma relacionada ao uso ou incapacidade de usar o Serviço).
+
+9. Lei Aplicável e Jurisdição
+Estes Termos e seu uso do Serviço serão regidos pelas leis do Brasil. Você concorda que qualquer ação ou procedimento legal entre a Companhia e você para qualquer finalidade relacionada a estes Termos será trazido exclusivamente para os tribunais localizados em [Sua Cidade/Estado de Residência ou Sede da Empresa].
+
+10. Disposições Diversas
+Integralidade do Acordo: Estes Termos constituem o acordo integral entre você e o Random Code em relação ao Serviço.
+
+Renúncia: A falha em exercer ou aplicar qualquer direito ou disposição destes Termos não constituirá uma renúncia a tal direito ou disposição.
+
+Independência das Cláusulas: Se qualquer disposição destes Termos for considerada inexequível ou inválida, essa disposição será alterada e interpretada para cumprir os objetivos da disposição na maior extensão possível sob a lei aplicável e as disposições restantes permanecerão em pleno vigor e efeito.

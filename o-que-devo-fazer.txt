@@ -1,0 +1,12 @@
+Aqui eu tenho que adicionar as seguintes funcionalidades:
+
+--> Input radio, deve funcionar que nem a imagem do layout
+--> Opçoes de senha, deve funcionar que nem a imagem
+--> Os nav-bar
+--> politica de privacidade, e termos de uso, fazer um modal assim que a pessoa clicar
+--> Conforme a pessoa vai aumentando o tamanho da senha, o p vai dizendo se é uma senha fraca ou forte conforme o tamanho do range, e vai atualizando na tela
+--> Com o tempo fazer um historico de senhas geradas, colocando data que foi feito
+--> Mudar o nivel de força, tirar com base no tamanho e sim pela complexidade que foi feita, se chama implementação da entropia.
+
+Esse é o nosso programa mais longo que fizemos, fazer muito bem feito e conseguir codar nele algumas vezes por semana, para ter melhorias e consertar bugs, ja que é assim que vai ser a nossa vida de desenvolvedor
+

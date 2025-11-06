@@ -1,0 +1,165 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: #8299A7;
+}
+
+@media only screen and (min-width: 380px) and (max-width: 450px) {
+    .nav-bar>ul{
+    display: none;
+    }
+
+    #container{
+        width: 100%;
+        height: 79vh;
+    }
+    .opcoeSenha>input{
+    display: block;
+    }
+
+    #aside-right{
+        display: none;
+    }
+}
+
+#header{
+    background-color: #161D2F;
+    color: white;
+    display: flex;
+}
+
+.img-logo{
+    margin: 0px 20px;
+    width: 100px;
+}
+
+#header>h3{
+    text-transform: uppercase;
+    margin-top:5vh;
+}
+.blue{
+    color: #179BC9;
+}
+
+.nav-bar{
+    display: flex;
+    gap: 50px;
+    position: absolute;
+    top: 0;
+    right:20vh;
+    align-items: center;
+    margin-top: 5vh;
+}
+
+ul li{
+    list-style: none;
+}
+
+#container{
+    margin:5px 0px;
+    background-color:#161D2F;
+    width: 1700px;
+    height: 79vh;
+}
+#content{
+    float: left;
+    background-color: #1F2638;
+    padding: 50px;
+    width: 1280px;
+    height: 95%;
+    margin: 10px 0px;
+    border-radius: 8px;
+}
+#content>h2{
+    margin: 10px 0px;
+    color: white;
+}
+#content>p{
+    margin: 15px 0px;
+    color: #454E5F;
+}
+
+.display{
+    display: flex;
+    margin: 10px 0px;
+}
+.displayText{
+    display: none;
+    padding: 10px;
+    width: auto;
+    height: 40px;
+    background-color: white;
+    border-radius: 6px;
+    border: 0;
+    outline: 0;
+    font-size: 13pt;
+    color: black;
+    
+}
+.btnCopiar{
+    display: none;
+    margin-left: 10px;
+    border-radius: 6px;
+    padding: 5px;
+    outline: 0;
+    background-color: #0BC0F5;
+    color: white;
+}
+.input-range{
+    margin: 20px 0px;
+}
+.input-range>p{
+    margin: 10px 0px;
+}
+.rangeValor{
+    color: white;
+    margin: 0px 5px;
+}
+.nivelF{
+    display: none;
+    color: #168C40;
+}
+.btnGerar{
+    display: block;
+    margin: 15px 0px;
+    width: 170px;
+    height: 35px;
+    border-radius: 6px;
+    border: 0;
+    font-size: 13pt;
+    background-color: #32C260;
+    color: white;
+}
+.opcoeSenha{
+    display: block;
+    margin: 10px 0;
+}
+.opcoeSenha>input{
+    margin: 10px 10px;
+    display: inline-block;
+}
+#aside-right{
+    margin: 10px 0px;
+    background-color: #1F2638;
+    float: right;
+    width:400px;
+    height:max-content;
+}
+
+.post-motivos>span{
+    display: block;
+}
+#footer{
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #161D2F;
+    color: white;
+}

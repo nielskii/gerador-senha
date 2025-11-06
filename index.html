@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Code</title>
+    <link rel="shortcut icon" href="./img/randomlogobg.png" type="image/x-icon">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div id="header">
+        <div class="img-logo">
+            <img src="./img/randomlogobg.png" alt="" class="img-logo">
+        </div>
+        <h3>Random <span class="blue">Code</span></h3>
+        <div class="nav-bar">
+            <ul><li>Sobre</li></ul>
+            <ul><li>Contato</li></ul>
+            <ul><li>Trabalhos</li></ul>
+            <ul><li>Blog</li></ul>
+        </div>
+    </div>
+    <div id="container">
+        <div id="content">
+            <h2>Gere Senhas Fortes e Seguras</h2>
+            <p>Lorem ipsum dolor.</p>
+            <div id="display" class="display">
+                <input type="text" id="displayText" class="displayText">
+                <button type="button" id="btnCopiar" class="btnCopiar" onclick="copiaSenha()"><i class="fa-solid fa-copy">   Copiar</i></button>
+            </div>
+            <div class="input-range">
+                <p>Tamanho da Senha:</p>
+                <input type="range" name="range" id="rangeID" value="0" max="100" oninput="rangeValores()"><span id="rangeValor" class="rangeValor">0</span>
+                <p>Força: <span id="nivelF" class="nivelF">Impenetrável</span></p>
+            </div>
+            <div class="opcoeSenha">
+                <p>Opções de Senha: </p>
+                <input type="checkbox" name="maiuscula" id="opMaiuscula"><span>Incluir Maiúscula</span>
+                <input type="checkbox" name="numeros" id="opNumeros"><span>Incluir Números</span>
+                <input type="checkbox" name="simbolos" id="opSimbolos"><span>Incluir Simbolos</span>
+                <input type="checkbox" name="minuscula" id="opMinuscula"><span>Incluir Minúscula</span>
+                <input type="checkbox" name="caracteres" id="opCaracteres"><span>Incluir Caracteres</span>
+                <button type="button" id="btnGerar" class="btnGerar">Gerar Senha</button>
+            </div>
+        </div>
+        <div id="aside-right">
+            <section class="post-right">
+                <h4>Por que usar o Random Code?</h4>
+                <hr>
+                <article class="post-motivos">
+                    <img src="" alt=""><span>Lorem ipsum dolor sit amet consectetur.</span>
+                    <img src="" alt=""><span>Lorem ipsum dolor sit amet consectetur.</span>
+                    <img src="" alt=""><span>Lorem ipsum dolor sit amet consectetur.</span>
+                    <img src="" alt=""><span>Lorem ipsum dolor sit amet consectetur.</span>
+                </article>
+            </section>
+        </div>
+        <div id="footer">
+            <p>&copy;Daniel Boladão</p>
+            <p>Politica de Privacidade</p>
+            <p>Termos de Uso</p>
+        </div>
+    </div>
+    <script src="./js/script.js"></script>
+</body>
+</html>

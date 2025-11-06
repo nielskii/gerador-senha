@@ -1,0 +1,113 @@
+.
+
+📜 Política de Privacidade Estendida do Random Code
+Vigência: 1º de Novembro de 2025
+
+Esta Política de Privacidade descreve as nossas políticas e procedimentos sobre a coleta, uso e divulgação de suas informações quando você utiliza o Serviço e informa você sobre seus direitos de privacidade e como a lei protege você.
+
+1. Introdução, Escopo e Consentimento
+Ao acessar e utilizar o site e o serviço Random Code ("Serviço"), você reconhece ter lido e compreendido esta Política de Privacidade, concordando com a coleta, o uso e o processamento de suas informações conforme descrito neste documento. Esta Política aplica-se exclusivamente às atividades online do Random Code e é válida para os visitantes do nosso site e em relação às informações que eles compartilham e/ou coletam.
+
+2. Definições Chave (Termos e Conceitos)
+Conta: Uma conta exclusiva criada para você acessar nosso Serviço ou partes do nosso Serviço. (Aplica-se se for necessário login para recursos futuros).
+
+Cookies: Pequenos arquivos que são colocados no seu computador, dispositivo móvel ou qualquer outro dispositivo por um site, contendo os detalhes do seu histórico de navegação naquele site, entre seus muitos usos.
+
+Dados Pessoais: Qualquer informação relativa a uma pessoa física identificada ou identificável.
+
+Dados de Uso: Dados coletados automaticamente, gerados pelo uso do Serviço ou da própria infraestrutura do Serviço (por exemplo, a duração de uma visita à página).
+
+Controlador de Dados: A pessoa singular ou jurídica (o Random Code) que determina as finalidades e os meios do processamento de Dados Pessoais.
+
+3. Coleta e Uso de Dados Pessoais
+3.1. Tipos de Dados Coletados
+Enquanto utiliza nosso Serviço, podemos solicitar que você nos forneça certas informações de identificação pessoal que podem ser usadas para contatá-lo ou identificá-lo. Isso pode incluir, mas não se limita a:
+
+Endereço de e-mail (se você optar por entrar em contato ou assinar nossa newsletter).
+
+Nome e Sobrenome (em comunicações voluntárias).
+
+Dados de Uso.
+
+3.2. Dados de Uso Coletados Automaticamente
+Os Dados de Uso são coletados automaticamente durante o uso do Serviço. Esses dados podem incluir informações como:
+
+Endereço de Protocolo de Internet (endereço IP) do seu dispositivo.
+
+Tipo e versão do navegador.
+
+As páginas do nosso Serviço que você visita.
+
+A hora e a data da sua visita.
+
+O tempo gasto nessas páginas.
+
+Identificadores exclusivos de dispositivo e outros dados de diagnóstico.
+
+Informações sobre o sistema operacional usado para acessar o Serviço.
+
+3.3. Tecnologias de Rastreamento e Cookies
+Usamos Cookies e tecnologias de rastreamento semelhantes para monitorar a atividade em Nosso Serviço e armazenar certas informações. As tecnologias de rastreamento utilizadas podem incluir beacons, tags e scripts para coletar e rastrear informações, bem como para analisar e melhorar Nosso Serviço.
+
+4. Uso dos Seus Dados Pessoais
+O Random Code pode usar os Dados Pessoais para as seguintes finalidades:
+
+Para fornecer e manter nosso Serviço: Incluindo o monitoramento do uso do nosso Serviço.
+
+Para gerenciar sua Conta: Gerenciar seu registro como usuário do Serviço. Os Dados Pessoais que você fornece podem dar acesso a diferentes funcionalidades do Serviço que estão disponíveis para você como usuário registrado.
+
+Para Contatá-lo: Contatar você por e-mail, telefone, SMS ou outras formas de comunicação eletrônica equivalentes, como notificações push de um aplicativo móvel sobre atualizações ou comunicações informativas relacionadas às funcionalidades, produtos ou serviços contratados, incluindo as atualizações de segurança, quando necessário ou razoável para sua implementação.
+
+Para fins de marketing e promocionais: Para fornecer a você notícias, ofertas especiais e informações gerais sobre outros bens, serviços e eventos que oferecemos e que são semelhantes àqueles que você já comprou ou perguntou, a menos que você tenha optado por não receber tais informações.
+
+Para gerenciar suas solicitações: Atender e gerenciar suas solicitações para Nós.
+
+Para transferências de negócios: Podemos usar suas informações para avaliar ou conduzir uma fusão, alienação, reestruturação, reorganização, dissolução ou outra venda ou transferência de alguns ou de todos os Nossos ativos.
+
+5. Retenção e Exclusão de Dados Pessoais
+Reteremos seus Dados Pessoais apenas pelo tempo necessário para as finalidades estabelecidas nesta Política de Privacidade.
+
+6. Divulgação e Compartilhamento de Seus Dados Pessoais
+Podemos compartilhar Suas informações pessoais nas seguintes situações:
+
+Com Provedores de Serviço: Podemos compartilhar Suas informações pessoais com Provedores de Serviço para monitorar e analisar o uso do nosso Serviço e para contatá-lo.
+
+Para transferências de negócios: Podemos compartilhar ou transferir Suas informações pessoais em conexão com, ou durante negociações de, qualquer fusão, venda de ativos da Companhia, financiamento ou aquisição de toda ou parte de Nossos negócios para outra empresa.
+
+Com Afiliadas: Podemos compartilhar Suas informações com Nossas afiliadas, caso em que exigiremos que essas afiliadas cumpram esta Política de Privacidade.
+
+Com Parceiros de Negócios: Podemos compartilhar Suas informações com Nossos parceiros de negócios para oferecer a você certos produtos, serviços ou promoções.
+
+7. Segurança dos Dados Gerados (Cláusula Crítica)
+O Random Code toma precauções razoáveis para proteger suas informações. No entanto, o elemento mais crítico de segurança em nosso Serviço é a garantia de não armazenamento das senhas geradas:
+
+A principal funcionalidade do Random Code, a geração de senhas, é projetada para ser executada exclusivamente no lado do cliente (seu navegador). As senhas geradas NUNCA são transmitidas, armazenadas ou registradas em NOSSOS servidores ou bancos de dados, nem em quaisquer serviços de terceiros. Seu controle sobre a senha gerada é imediato e absoluto.
+
+8. Seus Direitos de Privacidade (LGPD e Regulamentos Similares)
+Dependendo da sua jurisdição, você pode ter os seguintes direitos de privacidade:
+
+Direito de Acesso: O direito de solicitar acesso aos Dados Pessoais que mantemos sobre você.
+
+Direito de Retificação: O direito de solicitar a correção de quaisquer Dados Pessoais incompletos ou imprecisos.
+
+Direito de Exclusão: O direito de solicitar que excluamos seus Dados Pessoais sob certas condições.
+
+Direito de Restrição: O direito de solicitar que restrinjamos o processamento de seus Dados Pessoais.
+
+Direito de Oposição: O direito de se opor ao Nosso processamento de seus Dados Pessoais sob certas condições.
+
+Direito à Portabilidade: O direito de solicitar a transferência dos Dados Pessoais que coletamos diretamente.
+
+9. Conformidade Legal e Jurisdição
+Podemos divulgar Seus Dados Pessoais de boa-fé, acreditando que tal ação é necessária para:
+
+Cumprir uma obrigação legal.
+
+Proteger e defender os direitos ou propriedade do Random Code.
+
+Prevenir ou investigar possíveis irregularidades relacionadas ao Serviço.
+
+Esta Política será regida e interpretada de acordo com as leis do Brasil. Qualquer disputa será submetida à jurisdição exclusiva dos tribunais localizados em [Sua Cidade/Estado de Residência ou Sede da Empresa].
+
+10. Alterações a Esta Política de Privacidade
+Podemos atualizar Nossa Política de Privacidade periodicamente. Publicaremos a nova Política de Privacidade nesta página e atualizaremos a data de "Vigência" no topo.
