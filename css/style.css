@@ -63,14 +63,14 @@ ul li{
 #container{
     margin:5px 0px;
     background-color:#161D2F;
-    width: 1700px;
-    height: 79vh;
+    width: 100%;
+    height: 84vh;
 }
 #content{
     float: left;
     background-color: #1F2638;
     padding: 50px;
-    width: 1280px;
+    width: 70%;
     height: 95%;
     margin: 10px 0px;
     border-radius: 8px;
@@ -144,22 +144,31 @@ ul li{
     display: inline-block;
 }
 #aside-right{
-    margin: 10px 0px;
+    margin: 10px 15px;
+    padding: 10px;
     background-color: #1F2638;
+    border-radius: 6px;
     float: right;
-    width:400px;
-    height:max-content;
+    width:25%;
+    height:95%;
 }
 
 .post-motivos>span{
     display: block;
 }
 #footer{
+    display: flex;
+    justify-content: space-around;
     clear: both;
     position: fixed;
     bottom: 0;
     width: 100%;
+    padding: 16px;
     text-align: center;
     background-color: #161D2F;
     color: white;
+}
+#footer>p>a{
+    color: white;
+    justify-content: space-around;
 }
